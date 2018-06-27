@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/alex/SOP/Emotion/Model/parameters_32_16/personality-EMO-model.ckpt-34"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_32_16/personality-EMO-model.ckpt-29"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_32_16/personality-EMO-model.ckpt-34"

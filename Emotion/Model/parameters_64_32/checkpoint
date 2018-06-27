@@ -1,0 +1,7 @@
+model_checkpoint_path: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-49"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-24"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-29"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-34"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-39"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-44"
+all_model_checkpoint_paths: "/home/alex/SOP/Emotion/Model/parameters_64_32/personality-EMO-model.ckpt-49"
