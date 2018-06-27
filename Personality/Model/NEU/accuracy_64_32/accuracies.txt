@@ -1,0 +1,120 @@
+
+----
+This is epoch 4
+Train Accuracy: 0.552419354839
+Test Accuracy: 0.48125
+----
+
+----
+This is epoch 9
+Train Accuracy: 0.637096774194
+Test Accuracy: 0.50625
+----
+
+----
+This is epoch 14
+Train Accuracy: 0.811995967742
+Test Accuracy: 0.558333333333
+----
+
+----
+This is epoch 19
+Train Accuracy: 0.917842741935
+Test Accuracy: 0.55625
+----
+
+----
+This is epoch 24
+Train Accuracy: 0.948588709677
+Test Accuracy: 0.566666666667
+----
+
+----
+This is epoch 29
+Train Accuracy: 0.920866935484
+Test Accuracy: 0.50625
+----
+
+----
+This is epoch 34
+Train Accuracy: 0.936995967742
+Test Accuracy: 0.564583333333
+----
+
+----
+This is epoch 39
+Train Accuracy: 0.954637096774
+Test Accuracy: 0.558333333333
+----
+
+----
+This is epoch 44
+Train Accuracy: 0.954637096774
+Test Accuracy: 0.558333333333
+----
+
+----
+This is epoch 49
+Train Accuracy: 0.965221774194
+Test Accuracy: 0.547916666667
+----
+
+----
+This is epoch 54
+Train Accuracy: 0.962701612903
+Test Accuracy: 0.55
+----
+
+----
+This is epoch 59
+Train Accuracy: 0.954637096774
+Test Accuracy: 0.54375
+----
+
+----
+This is epoch 64
+Train Accuracy: 0.956653225806
+Test Accuracy: 0.55625
+----
+
+----
+This is epoch 69
+Train Accuracy: 0.956653225806
+Test Accuracy: 0.55
+----
+
+----
+This is epoch 74
+Train Accuracy: 0.965725806452
+Test Accuracy: 0.545833333333
+----
+
+----
+This is epoch 79
+Train Accuracy: 0.954133064516
+Test Accuracy: 0.545833333333
+----
+
+----
+This is epoch 84
+Train Accuracy: 0.959677419355
+Test Accuracy: 0.547916666667
+----
+
+----
+This is epoch 89
+Train Accuracy: 0.959677419355
+Test Accuracy: 0.547916666667
+----
+
+----
+This is epoch 94
+Train Accuracy: 0.960181451613
+Test Accuracy: 0.55
+----
+
+----
+This is epoch 99
+Train Accuracy: 0.956653225806
+Test Accuracy: 0.552083333333
+----

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/alex/SOP/Personality/Model/AGR/parameters_64_32/personality-AGR-model.ckpt-14"
+all_model_checkpoint_paths: "/home/alex/SOP/Personality/Model/AGR/parameters_64_32/personality-AGR-model.ckpt-14"

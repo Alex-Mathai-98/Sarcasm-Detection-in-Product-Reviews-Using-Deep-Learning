@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/alex/SOP/Personality/Model/EXT/parameters_64_32/personality-EXT-model.ckpt-34"
+all_model_checkpoint_paths: "/home/alex/SOP/Personality/Model/EXT/parameters_64_32/personality-EXT-model.ckpt-14"
+all_model_checkpoint_paths: "/home/alex/SOP/Personality/Model/EXT/parameters_64_32/personality-EXT-model.ckpt-19"
+all_model_checkpoint_paths: "/home/alex/SOP/Personality/Model/EXT/parameters_64_32/personality-EXT-model.ckpt-29"
+all_model_checkpoint_paths: "/home/alex/SOP/Personality/Model/EXT/parameters_64_32/personality-EXT-model.ckpt-34"
